@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-  cout << "Hola Git" << endl;
+  cout << "NEW HELLO Git" << endl;
   getchar();
 
   return 0;
